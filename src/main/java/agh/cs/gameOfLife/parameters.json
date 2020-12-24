@@ -1,0 +1,13 @@
+{
+  "width": 20,
+  "height": 20,
+  "numberOfPlants": 40,
+  "plantsEnergy": 10,
+  "startEnergy": 20,
+  "jungleRatio": 3,
+  "numberOfAnimals": 20,
+  "moveEnergy": 1,
+  "speed": 4,
+  "numberOfSimulations": 1,
+  "dayWhenDataSaved": 150
+}

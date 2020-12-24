@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AnimalTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-08T17:20:25" hostname="DESKTOP-4MF9NTE" time="0.008">
+  <properties/>
+  <testcase name="movement" classname="AnimalTest" time="0.008"/>
+  <system-out><![CDATA[Ruch na (3,2)
+Ruch na (4,2)
+Ruch na (0,2)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

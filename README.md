@@ -9,7 +9,6 @@ Game of Life
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
-* [Contact](#contact)
 
 ## General info
 Game of Life is a cell automaton simulation written in Java. It creates a rectangle 2d environment with periodic boundary conditions. Animals live, move, eat, reproduce and die while the user is able to follow the statistics of the simulation.

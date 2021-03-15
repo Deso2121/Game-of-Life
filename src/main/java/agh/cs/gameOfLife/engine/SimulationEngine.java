@@ -91,7 +91,7 @@ public class SimulationEngine implements IEngine {
                     dataStorage.getAnimalsList().stream().mapToInt(Animal::getChildrenCounter).average().orElse(0)
                     );
         }
-        t += 0.0167;
+        t += 0.03;
         if (t >= 1 / dataStorage.getSpeed()) {
             t = 0;
         }
